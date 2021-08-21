@@ -1,4 +1,4 @@
 container:
   image: k8s.gcr.io/echoserver:1.10
 
-replicaCount: 1
+replicaCount: 3
